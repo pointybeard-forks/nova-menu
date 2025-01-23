@@ -13,8 +13,8 @@
         }
     ],
     "require": {
-        "php": "^8.0",
-        "laravel/nova": "^4.27.14",
+        "php": "^8.1",
+        "laravel/nova": "^4.27.14|^5.0",
         "norman-huth/nova-basic-package": "^1.2.6",
         "nova-kit/nova-packages-tool": "^1.17"
     },
